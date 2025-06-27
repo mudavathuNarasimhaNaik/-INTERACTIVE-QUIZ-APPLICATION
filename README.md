@@ -12,7 +12,7 @@
 
 " MENTOR " : NEELA SANTHOSH
 
-DESCRIOTION:
+Description:
 
 📝 Project Title: Quiz Master – Interactive Quiz Application Website (Front-End Only)
 Description:
