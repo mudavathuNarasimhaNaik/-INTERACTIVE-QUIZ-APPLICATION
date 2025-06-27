@@ -55,6 +55,10 @@ In conclusion, Quiz Master is a pure front-end educational website project that 
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/80e9b1d8-5ae0-4b2c-9f91-5d40a47f9f88)
+ Home Page:
+"A welcoming interface that motivates users to learn and explore quizzes with confidence."
+![Image](https://github.com/user-attachments/assets/f9eb19c0-95d8-4e7d-804d-f4b9f6553293)
 
-
+![Image](https://github.com/user-attachments/assets/8a7f893d-ed6d-49e6-bcd6-75fca1cc2ba2)
+![Image](https://github.com/user-attachments/assets/4844ca70-4c97-410c-8a56-94550bbda5b5)
 
