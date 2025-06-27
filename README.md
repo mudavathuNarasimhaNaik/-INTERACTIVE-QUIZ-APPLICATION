@@ -43,6 +43,7 @@ Styling throughout the site is achieved using modern CSS techniques such as Flex
 
 ✅ Requirement Tools
 🖥️ 1. Technologies Used
+
 HTML5 :To create the structure of the web pages (Home, Subjects, About, Contact Us, etc.)
 
 CSS3: :To design and style the layout, including colors, fonts, shadows, cards, and responsiveness
@@ -52,6 +53,8 @@ JavaScript : To handle simple interactivity such as button clicks, hover effects
 In conclusion, Quiz Master is a pure front-end educational website project that showcases a clean layout, interactive subject navigation, and mobile-responsive design. It is ideal for use as a front-end portfolio piece and demonstrates essential skills in HTML, CSS, and basic JavaScript for layout interaction and styling. While it does not include actual quiz logic or backend functionality, it lays a strong foundation for a user-centric educational platform.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/80e9b1d8-5ae0-4b2c-9f91-5d40a47f9f88)
 
 
 
