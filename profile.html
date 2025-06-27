@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <link rel="stylesheet" href="profile.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <!-- Profile Card -->
+    <div class="profile-card">
+        <!-- Profile Image -->
+        <div class="profile-img">
+            <span id="profile-letter">U</span>
+        </div>
+
+        <!-- User Details -->
+        <h2><span id="user-name">User Name</span></h2>
+        <p class="email"><span id="user-email">user@example.com</span></p>
+
+        <!-- Editable Fields -->
+        <div id="edit-section" style="display: none;">
+            <label for="edit-name">Name:</label>
+            <input type="text" id="edit-name">
+            
+            <label for="edit-email">Email:</label>
+            <input type="email" id="edit-email">
+            
+            <button class="save-btn">Save</button>
+            <button class="cancel-btn">Cancel</button>
+        </div>
+
+        <!-- Buttons -->
+        <div class="btn-group">
+            <button class="edit-btn">Edit Profile</button>
+            <button class="logout-btn">Logout</button>
+        </div>
+    </div>
+
+    <div id="logout-popup" class="logout-popup">
+        <h3>Are you sure you want to logout?</h3>
+        <button id="confirm-logout">Yes, Logout</button>
+        <button id="cancel-logout">Cancel</button>
+    </div>
+    <script src="profile.js"></script>
+    <!-- <script src="logout.js"></script> -->
+
+</body>
+</html>
